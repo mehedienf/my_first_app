@@ -11,7 +11,9 @@ void main() {
               colors: [
                 Color.fromARGB(255, 0, 128, 0),
                 Color.fromARGB(255, 70, 227, 70),
-              ]
+              ],
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
             ),
           ),
           child: Center(

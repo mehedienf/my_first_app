@@ -1,0 +1,6 @@
+{
+  "dart.devToolsTheme": "dark",
+  "dart.openDevTools": "flutter",
+  "dart.showDevToolsDebugOutput": true,
+  "flutter.showWebRecorderPrompt": false
+}
